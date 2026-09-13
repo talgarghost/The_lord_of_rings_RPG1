@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = git@github.com:talgarghost/The_lord_of_rings_RPG33.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
